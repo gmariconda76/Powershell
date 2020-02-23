@@ -9,7 +9,7 @@ Import-Module UniversalDashboard.Community
 
 ###You will need to import the Microsoft Active Directory for some of the dashboard functionality###
 
-#Import-Module ActiveDirectory
+Import-Module ActiveDirectory
 
 
 ##Menu Buttons##
